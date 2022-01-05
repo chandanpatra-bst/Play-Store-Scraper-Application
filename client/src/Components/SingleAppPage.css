@@ -1,0 +1,138 @@
+.upper-container{
+    /* display: inline-block; */
+    margin-top: 100px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.Loader {
+    margin-top: 20%;
+    margin-left: 45%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.icon-container {
+    /* display: inline-block;
+    left: 184px;
+    top: 165px;
+    right: 896px;
+    bottom: 682px;
+    border-radius: 0px; */
+}
+
+.icon {
+    width: 250px;
+    height: 250px;
+}
+
+.app-info-container {
+    margin-top: 20px;
+    margin-left: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;    
+}
+
+.dev-cat {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.app-star-div {
+    margin: 10px 10px 10px 10px;
+}
+
+
+.screenshot-video-container {
+    margin-top: 100px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.btnContainer {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.screenshot-div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.screenshot-img {
+    width: 320px;
+    height: 240px;
+}
+
+.screenshots-container {
+    width: 100%;
+}
+
+.desc-div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.arrow-down-button {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.mid-container {
+    margin: 50px 50px 50px 50px;
+}
+
+.addition-info-heading {
+
+}
+
+.additional-info-container {
+
+}
+
+.meta-info-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.installBtn { 
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.install {
+    font-family:  sans-serif;
+}

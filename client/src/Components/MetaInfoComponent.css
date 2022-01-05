@@ -1,0 +1,12 @@
+.meta-container {
+    text-align: center;
+    justify-content: center;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 40px;
+    border: 1px solid black;
+    padding-top: 10px; 
+    border-radius: 10px; 
+    box-shadow: 0 0 20px #000;
+}

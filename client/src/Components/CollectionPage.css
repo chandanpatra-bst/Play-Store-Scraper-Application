@@ -1,0 +1,23 @@
+.top-charts-container {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40%;
+}
+
+.rescrape-container {
+    display: inline-block;
+    margin-left: 600px;
+}
+
+.btn {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.btn:hover {
+    background-color: rgb(162, 207, 224);
+    cursor: pointer;
+}

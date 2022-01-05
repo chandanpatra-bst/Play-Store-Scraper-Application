@@ -1,0 +1,15 @@
+.title-container {
+    text-align: center;
+    margin: 30px 30px 10px 30px;
+    padding: 20px 20px 5px 20px;
+}
+
+.apps{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

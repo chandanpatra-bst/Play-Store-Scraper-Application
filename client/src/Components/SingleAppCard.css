@@ -1,0 +1,40 @@
+.app-card-container {
+    display: flex;
+    margin: 10px 20px 20px 20px;
+    border: 1px;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    width: 400px;
+    box-shadow: 0 0 20px #000;
+}
+
+img {
+    border-radius: 10px;
+    margin: 20px 5px 5px 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.app-info-container {
+    margin: 5px 5px 5px 5px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.app-title {
+    font-size: larger;
+    padding-bottom: 10px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.app-developer {
+    font-size: large;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.app-details-anchor {
+    color: blueviolet;
+}
+
+
